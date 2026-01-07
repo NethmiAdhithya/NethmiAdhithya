@@ -32,7 +32,25 @@ Currently, I am expanding my expertise in full-stack development by mastering th
 
 ---
 
+### 💻 Tech Stack
 
+#### 🛠 Languages & Frameworks
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+#### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 ---
