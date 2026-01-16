@@ -1,3 +1,11 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=NethmiAdhithya&label=Profile%20views&color=ff69b4&style=flat" alt="NethmiAdhithya" /> 
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Adhi!&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</div>
+
 # 💫 About Me
 I am a final-year Software Engineering undergraduate at London Metropolitan University (UK) (Top-Up via ESU Kandy), currently awaiting final results. I am a proactive and motivated individual with a strong academic foundation in Object-Oriented Programming, Web Development, and Software Engineering principles.
 
