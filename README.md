@@ -62,6 +62,19 @@ Currently, I am expanding my expertise in full-stack development by mastering th
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiAdhithya&theme=calm_pink&hide_border=false&layout=compact)
 
+
+----
+
+# 📊 GitHub Stats 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NethmiAdhithya&theme=calm_pink&show_icons=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiAdhithya&theme=calm_pink&layout=compact" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NethmiAdhithya&theme=calm_pink" />
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
