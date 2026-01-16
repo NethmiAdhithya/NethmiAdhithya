@@ -6,7 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20there,%20I'm%20Adhi!&fontSize=55&animation=fadeIn&fontAlignY=35" />
 </div>
 
-# 💫 About Me
+---
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35">&nbsp;***About Me***
 I am a final-year Software Engineering undergraduate at London Metropolitan University (UK) (Top-Up via ESU Kandy), currently awaiting final results. I am a proactive and motivated individual with a strong academic foundation in Object-Oriented Programming, Web Development, and Software Engineering principles.
 
 I am passionate about building scalable, real-world software solutions and continuously improving my technical and professional skills. I combine strong organizational abilities, effective communication, and teamwork skills, enabling me to contribute confidently in collaborative and dynamic environments.
@@ -15,23 +17,22 @@ Currently, I am expanding my expertise in full-stack development by mastering th
 
 ---
 
-### 🚀 Quick Overview
+### Quick Overview
 
-| 🔭 Currently Working On | 🌱 Currently Learning |
+| Category | Details |
 | :--- | :--- |
-| Web Development Projects | React.js & Node.js |
-| Improving Full Stack Skills | Advanced JavaScript Concepts |
+| <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Animated%20Icons/Settings.gif" width="20"> **Currently Working On** | Web Development Projects • Full Stack Optimization |
+| <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Animated%20Icons/Brain.gif" width="20"> **Currently Learning** | React.js & Node.js • Advanced JavaScript (ES6+) |
+| <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Animated%20Icons/Developer.gif" width="20"> **Collaborations** | Open Source Projects • Collaborative Software Development |
+| <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Animated%20Icons/Message.gif" width="20"> **Technical Expertise** | HTML, CSS, JS, PHP, Java, Python, C#, Laravel, MySQL |
 
-| 👯 Looking to Collaborate | 💬 Ask Me About |
-| :--- | :--- |
-| Open Source & Web Projects | HTML, CSS, JavaScript, PHP, Java, Python, C#,Laravel, MySQL |
-| Collaborative Software Dev | SE Fundamentals & Databases |
-
-**⚡ Fun Fact:** I love problem-solving and learning new technologies 🚀
+<p align="left">
+  <b>⚡ Fun Fact:</b> I thrive on solving complex logic puzzles and transforming coffee into scalable code.
+</p>
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="left">
 <a href="https://github.com/NethmiAdhithya"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/nethmi-adhithya-46161a2a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -128,7 +129,7 @@ Currently, I am expanding my expertise in full-stack development by mastering th
 
 ---
 
-# 📊 GitHub Stats 
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6emY4bmhxdnhqNGR6eHh4eHh4eHh4eHh4eHh4eHh4eHh4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=NethmiAdhithya&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=NethmiAdhithya&theme=calm_pink&hide_border=false)
@@ -138,17 +139,17 @@ Currently, I am expanding my expertise in full-stack development by mastering th
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NethmiAdhithya&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 🔝 Top Contributed Repositories
+### Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=NethmiAdhithya&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 ---
