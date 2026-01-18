@@ -13,7 +13,7 @@ I am a final-year Software Engineering undergraduate at London Metropolitan Univ
 
 I am passionate about building scalable, real-world software solutions and continuously improving my technical and professional skills. I combine strong organizational abilities, effective communication, and teamwork skills, enabling me to contribute confidently in collaborative and dynamic environments.
 
-Currently, I am expanding my expertise in full-stack development by mastering the MERN Stack (MongoDB, Express, React, Node.js), while also deepening my understanding of system architecture and backend design. I gain hands-on experience through internships, academic projects, and self-learning, allowing me to apply modern technologies to practical software solutions.
+Currently, I am expanding my expertise in full-stack development by mastering the MERN Stack (MongoDB, Express, React, Node.js), while also gaining knowledge in basic Python (Flask) for backend development. I am building experience in databases using MongoDB and PostgreSQL, and learning foundational cloud and DevOps skills with AWS and Docker. Additionally, I am exploring AI integration with OpenAI / LLM APIs, and strengthening my workflow with tools like Git, GitHub, and CI/CD basics. I gain hands-on experience through internships, academic projects, and self-learning, allowing me to apply modern technologies to practical software solutions.
 
 ---
 
