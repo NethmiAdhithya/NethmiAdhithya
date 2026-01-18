@@ -131,7 +131,7 @@ Currently, I am expanding my expertise in full-stack development by mastering th
 ---
 
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6emY4bmhxdnhqNGR6eHh4eHh4eHh4eHh4eHh4eHh4eHh4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=NethmiAdhithya&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=NethmiAdhithya&theme=calm_pink&hide_border=false)
 
