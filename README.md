@@ -8,7 +8,7 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35">&nbsp;***About Me***
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35">&nbsp;**About Me**
 I am a final-year Software Engineering undergraduate at London Metropolitan University (UK) (Top-Up via ESU Kandy), currently awaiting final results. I am a proactive and motivated individual with a strong academic foundation in Object-Oriented Programming, Web Development, and Software Engineering principles.
 
 I am passionate about building scalable, real-world software solutions and continuously improving my technical and professional skills. I combine strong organizational abilities, effective communication, and teamwork skills, enabling me to contribute confidently in collaborative and dynamic environments.
