@@ -135,7 +135,7 @@ Currently, I am expanding my expertise in full-stack development by mastering th
 
 ![](https://nirzak-streak-stats.vercel.app/?user=NethmiAdhithya&theme=calm_pink&hide_border=false)
 
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NethmiAdhithya&theme=calm_pink&hide_border=false&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NethmiAdhithya&theme=calm_pink&layout=compact&langs_count=10)
 
 
 ---
