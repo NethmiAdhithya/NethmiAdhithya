@@ -150,7 +150,7 @@ Currently, I am expanding my expertise in full-stack development by mastering th
 
 ---
 
-### Top Contributed Repositories
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NethmiAdhithya&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 ---
