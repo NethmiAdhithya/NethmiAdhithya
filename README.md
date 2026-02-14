@@ -42,91 +42,127 @@ Currently, I am expanding my expertise in full-stack development by mastering th
 
 ---
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<h1 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px">
+  Tech Stack
+</h1>
+
+<p align="center"><i>Web & Mobile Application Developer (Flutter • React • Laravel)</i></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+
+<!-- Programming Languages -->
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="5" align="center" style="color: white;">Programming Languages</th>
+      <th colspan="5" align="center">Programming Languages</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java"/><br>Java
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><br>Java
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/><br>C#
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cs" width="50"/><br>C#
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python"/><br>Python
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/php-icon.svg" width="50" height="50" alt="PHP"/><br>PHP
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/php-icon.svg" width="50"/><br>PHP
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript"/><br>JavaScript
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript
       </td>
     </tr>
   </tbody>
 </table>
 
+<br>
+
+<!-- Web Development & Frameworks -->
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="5" align="center" style="color: white;">Web Development & Frameworks</th>
+      <th colspan="5" align="center">Web Development & Frameworks</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML5
+      <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50"/><br>HTML5
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/><br>CSS3
+      <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50"/><br>CSS3
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/><br>React.js
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br>React.js
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" alt="Node"/><br>Node.js
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50"/><br>Node.js
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel"/><br>Laravel
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>Laravel
       </td>
     </tr>
   </tbody>
 </table>
 
+<br>
+
+<!-- Mobile App Development -->
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">Databases & Tools</th>
+      <th colspan="2" align="center">Mobile App Development</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL"/><br>MySQL
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flutter" width="50"/><br>Flutter
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/><br>MongoDB
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mssql" width="50" height="50" alt="MSSQL"/><br>MSSQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="Git"/><br>Git/GitHub
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=dart" width="50"/><br>Dart
       </td>
     </tr>
   </tbody>
 </table>
+
+<br>
+
+<!-- Databases & Tools -->
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center">Databases & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br>MySQL
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mssql" width="50"/><br>MSSQL
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/><br>Git / GitHub
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ---
 
