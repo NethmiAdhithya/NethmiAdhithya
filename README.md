@@ -21,13 +21,13 @@ Currently, I am expanding my expertise in full-stack development by mastering th
 
 | Category | Details |
 | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Animated%20Icons/Settings.gif" width="20"> **Currently Working On** | Web Development Projects • Full Stack Optimization |
-| <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Animated%20Icons/Brain.gif" width="20"> **Currently Learning** | React.js & Node.js • Advanced JavaScript (ES6+) |
-| <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Animated%20Icons/Developer.gif" width="20"> **Collaborations** | Open Source Projects • Collaborative Software Development |
-| <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Animated%20Icons/Message.gif" width="20"> **Technical Expertise** | HTML, CSS, JS, PHP, Java, Python, C#, Laravel, MySQL |
+| <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Animated%20Icons/Settings.gif" width="20"> **Currently Working On** | Full-Stack Web Applications • MERN Stack Projects • System Optimization & UI Improvements |
+| <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Animated%20Icons/Brain.gif" width="20"> **Currently Learning** | • MERN Stack (MongoDB, Express, React, Node.js) • Flutter • Cloud & DevOps Basics (AWS, Docker) • AI/LLM API Integration |
+| <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Animated%20Icons/Developer.gif" width="20"> **Collaborations** | Open Source Learning • Academic Team Projects • Real-World Software Development |
+| <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Animated%20Icons/Message.gif" width="20"> **Technical Expertise** | Java • JavaScript • Python • PHP • C# • Laravel • MySQL • Git/GitHub |
 
 <p align="left">
-  <b>⚡ Fun Fact:</b> I thrive on solving complex logic puzzles and transforming coffee into scalable code.
+  <b>⚡ Fun Fact:</b> I enjoy transforming complex ideas into clean, scalable software solutions — powered by coffee and curiosity.
 </p>
 
 ---
@@ -46,8 +46,6 @@ Currently, I am expanding my expertise in full-stack development by mastering th
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px">
   Tech Stack
 </h1>
-
-<p align="center"><i>Web & Mobile Application Developer (Flutter • React • Laravel)</i></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -173,11 +171,6 @@ Currently, I am expanding my expertise in full-stack development by mastering th
 
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NethmiAdhithya&theme=calm_pink&layout=compact&langs_count=10)
 
-
----
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NethmiAdhithya&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
